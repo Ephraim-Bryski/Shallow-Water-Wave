@@ -5,4 +5,9 @@ Modeling the Shallow Water Wave Equations
 This is the code, figures, and report for my Coastal Sediment Transport final project, modeling water phenomena from the linear wave equations.
 
 
-<img src="./figures/pebble%20snapshot.png" alt="Demo" style="margin-top:50" width="600"/>
+
+
+https://github.com/user-attachments/assets/ebda5216-cb84-46d6-8b35-e1d6e7aa78c6
+
+
+
